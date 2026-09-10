@@ -1,0 +1,5 @@
+vdem.RData
+vparty.RData
+*.pkl
+__pycache__/
+.DS_Store
